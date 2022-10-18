@@ -1,2 +1,1 @@
-#!/bin/bash
-chown -h vicent:staff _hello
+#!/bin/bash/nchown -h betty:holberton
